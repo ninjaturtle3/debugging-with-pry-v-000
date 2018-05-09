@@ -1,7 +1,7 @@
 def plus_two(num)
-	2 + num
-	
+	num + 2
+
 
 end
 
-plus_two
+plus_two(num)
